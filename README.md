@@ -1,2 +1,2 @@
 # Card-eSports
-https://hi-tr0ll3.github.io/card-esports
+https://Hi-TR0LL3.github.io/Card-eSports
